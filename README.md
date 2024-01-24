@@ -1,5 +1,4 @@
 # Redux
-# Redux
 
  * Enter the price value for text box,you need quantity red text box and click total button, update subtotal and total value. you click remove button , reset all value are using in redux
 
